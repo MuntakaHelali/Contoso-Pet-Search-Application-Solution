@@ -1,3 +1,5 @@
+// Author: Muntaka Helali
+// Date:   Septemeber 26, 2023
 using System;
 
 // ourAnimals array will store the following: 
